@@ -12,9 +12,11 @@ def solve2(n) :
     for i in range(1, a + 1) :
         if n % i == 0 :
             cnt += 2
-        elif a * a == n :
-            cnt -= 1
+    if a * a == n :
+        cnt -= 1
     return cnt
+
+# reason why we cnt += 2 cuz of square root
 
 print(solve2(N))
 
