@@ -1,0 +1,17 @@
+16
+push A
+push B
+push C
+pop
+peek
+size
+push D
+peek 
+size
+empty
+pop
+pop
+pop
+pop
+peek
+empty
