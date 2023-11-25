@@ -1,0 +1,17 @@
+16
+enqueue A
+enqueue B
+enqueue C
+dequeue
+peek
+size 
+enqueue D
+peek
+size
+empty
+dequeue
+dequeue
+dequeue
+dequeue
+peek
+empty
