@@ -8,7 +8,7 @@ class Queue :
         
     def dequeue(self) :
         return None if self.empty() else self.queue.pop(0)
-    ßß
+
     def peek(self) :
         return None if self.empty() else self.queue[0]
     
