@@ -1,0 +1,16 @@
+15
+push_back A
+push_front B
+push_front C
+pop_front
+pop_back
+push_front D
+push_back E
+peek_front
+peek_back
+pop_front
+pop_back
+pop_front
+pop_back
+peek_front
+peek_back
